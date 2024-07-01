@@ -8,7 +8,7 @@
 | Mata Kuliah | Basis Data (UAS) |
 
 1. Menampilkan Nama Karyawan yang Berada di Departemen yang Dipimpin oleh Manajer dengan Nama 'Rika'
-   
+
    Output :
    ![image](https://github.com/RadityaTansyLizara/PRAKTIKUMUAS/assets/147571863/19e062fb-f627-4f6e-8ed3-cebb5cb70d17)
 
