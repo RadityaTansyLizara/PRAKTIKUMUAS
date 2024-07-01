@@ -7,7 +7,6 @@
 | Kelas | TI.23.A5 |
 | Mata Kuliah | Basis Data (UAS) |
 
-
 1. Menampilkan Nama Karyawan yang Berada di Departemen yang Dipimpin oleh Manajer dengan Nama 'Rika'
 
    Output :
